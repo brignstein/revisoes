@@ -19,7 +19,7 @@ Pytest . mais fácil de usar!
 para enviar para o servidor, tenho que :
 1) fazer um commit local
 git add.
-git commit -m"readme atualizado"
+git commit -m "readme atualizado"
 2) fazer um git push
 
 do servidor (GITHUB) para o local
