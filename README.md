@@ -1,2 +1,2 @@
 # revisoes
-revisões para ufcd 10789 metodologias de desenvolvimento de software
+revisões para UFCD 10789 metodologias de desenvolvimento de software
